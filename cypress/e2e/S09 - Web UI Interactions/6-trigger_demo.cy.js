@@ -1,10 +1,10 @@
 describe('Trigger Demo', () => {
     it('should understand various options of trigger methods', () => {
-      // cy.visit('https://courses.letskodeit.com/practice')
+       cy.visit('https://www.letskodeit.com/practice')
 
-      // Trigger Focus And Click
-      // cy.get('#hide-textbox').trigger('focus', 20, 40, {force: true})
-      // cy.get('#hide-textbox').trigger('click', 20, 40, {force: true})
+      //Trigger Focus And Click
+      cy.get('#hide-textbox').trigger('focus', 20, 40, {force: true})
+      cy.get('#hide-textbox').trigger('click', 20, 40, {force: true})
 
       // Trigger Mouseover
       // cy.get('#mousehover').trigger('mouseover')

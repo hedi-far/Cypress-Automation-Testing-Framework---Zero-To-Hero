@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation-testing-framework---zero-to-hero",
+  "version": "1.0.0",
+  "description": "Cypress Automation Testing Framework - Zero To Hero, by Packt Publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedi-far/Cypress-Automation-Testing-Framework---Zero-To-Hero.git"
+  },
+  "author": "Hedwig Farthofer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hedi-far/Cypress-Automation-Testing-Framework---Zero-To-Hero/issues"
+  },
+  "homepage": "https://github.com/hedi-far/Cypress-Automation-Testing-Framework---Zero-To-Hero#readme",
+  "devDependencies": {
+    "cypress": "^14.4.1"
+  }
+}
